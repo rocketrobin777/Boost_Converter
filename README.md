@@ -4,4 +4,4 @@ You will find diferent implementations, such as Python, C, Matlab...
 
 To execute the Python model in a Jupyiter notebook click: [Boost Converter Model Python](https://colab.research.google.com/drive/17blXxhXYZGddtZxGlVVpSNVU4JS4_cxu?usp=sharing)
 
-To execute the C model in an onlineGCB interpreter click: [Boost Converter Model C](https://onlinegdb.com/6iAW8Ta4o)
+To execute the C model in an onlineGDB interpreter click: [Boost Converter Model C](https://onlinegdb.com/6iAW8Ta4o)
