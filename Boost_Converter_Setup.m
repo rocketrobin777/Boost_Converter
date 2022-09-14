@@ -8,7 +8,7 @@ C = 330e-6;             % Capacity
 U_0 = 100;              % Source Voltage
 t = 1e-3*[0,2,3,5,10];
 D = [0.1,0.2,0.3,0.4,0.5];
-U_C0 = 0;    % Inital Capacity Voltage         ];
+U_C0 = 0;    % Inital Capacity Voltage
 %% DCDC Parameter
 frequency = 100e3;      % Switching Frequency
 %% Simulation Setup
