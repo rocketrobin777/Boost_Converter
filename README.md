@@ -1,6 +1,6 @@
 # Boost Converter Model
-This Model of a DC/DC Boost converter is an approximation of a switching model.
-You will find diferent implementations, such as Python, C, Matlab...
+This Model of a DC/DC boost converter is an approximation of a switching model.
+You will find different implementations, such in Python, C, Matlab...
 
 To execute the Python model in a Jupyiter notebook click: [Boost Converter Model Python](https://colab.research.google.com/drive/17blXxhXYZGddtZxGlVVpSNVU4JS4_cxu?usp=sharing)
 
